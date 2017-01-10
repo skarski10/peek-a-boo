@@ -1,0 +1,25 @@
+#initially-showing {
+  display: none;
+}
+
+.clickable{
+  cursor: pointer;
+  color: red;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.fadeIn {
+  display: none;
+}
+
+.click {
+  cursor: pointer;
+  color: blue;
+}
+
+.click:hover {
+  text-decoration: underline;
+}
